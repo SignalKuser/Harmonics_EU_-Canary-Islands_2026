@@ -26,10 +26,12 @@ OCPN Hint: For Nice arrows use otcurrent_LTC_v2.4 / Qtvlm have nice arrows per d
 -
 <img width="1592" height="1007" alt="Screenshot 2026-08-09 155251" src="https://github.com/user-attachments/assets/6689d7c1-555c-4640-960a-57ff82043740" />
 <img width="1905" height="997" alt="Screenshot 2026-08-09 153441" src="https://github.com/user-attachments/assets/e5ca1ebd-20cc-41e2-9d12-8bdc0edee252" />
+<img width="1552" height="1003" alt="Screenshot 2026-08-09 160015" src="https://github.com/user-attachments/assets/109e611e-b6cd-4fe0-bfdd-eb7576194758" />
 <img width="1029" height="944" alt="Screenshot 2026-08-09 162304" src="https://github.com/user-attachments/assets/81555354-e93b-455f-9867-e4fa0587e03b" />
 <img width="1270" height="978" alt="Screenshot 2026-08-09 162209" src="https://github.com/user-attachments/assets/5035ba9f-3395-40f2-9707-b61540a8d469" />
-<img width="1301" height="946" alt="Screenshot 2026-08-09 162107" src="https://github.com/user-attachments/assets/5721c67b-0d87-4286-bb5c-050caba61506" />
-<img width="1552" height="1003" alt="Screenshot 2026-08-09 160015" src="https://github.com/user-attachments/assets/109e611e-b6cd-4fe0-bfdd-eb7576194758" />
+<img width="1845" height="1035" alt="Screenshot 2026-08-09 162043" src="https://github.com/user-attachments/assets/0e6740c0-768d-4b51-9530-a91922aa6fc6" />
+
+
 
 datasource: https://data.marine.copernicus.eu/product/IBI_MULTIYEAR_PHY_005_002/services
 -
