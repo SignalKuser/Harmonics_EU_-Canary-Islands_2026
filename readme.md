@@ -4,7 +4,9 @@ HARMONIC und HARMONIX.IDX wurden so erstellt, dass sie die die Gezeitenströmung
 
 Canary Islands_2026.
 Kanaren_West_IBI_2025_R3km_300
+
 Kanaren_West_IBI_2025_R3km_600
+
 Kanaren_Mitte_IBI_2025_R3km_300
 Kanaren_Mitte_IBI_2025_R3km_600
 Kanaren_Ost_IBI_2025_R3km_300
