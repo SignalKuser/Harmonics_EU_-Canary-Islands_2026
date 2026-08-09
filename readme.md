@@ -30,3 +30,7 @@ OCPN Hint: For Nice arrows use otcurrent_LTC_v2.4 / Qtvlm have nice arrows per d
 <img width="1301" height="946" alt="Screenshot 2026-08-09 162107" src="https://github.com/user-attachments/assets/5721c67b-0d87-4286-bb5c-050caba61506" />
 <img width="1552" height="1003" alt="Screenshot 2026-08-09 160015" src="https://github.com/user-attachments/assets/109e611e-b6cd-4fe0-bfdd-eb7576194758" />
 
+datasource: https://data.marine.copernicus.eu/product/IBI_MULTIYEAR_PHY_005_002/services
+-
+Converted to IDX
+-
